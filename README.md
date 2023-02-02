@@ -16,7 +16,7 @@ Lista de links úteis para desenvolvimento de Software em geral. Atualizada e re
 
 ## HTML
 
-- [Em breve](URL DO LINK 1)
+- [HTML head](https://htmlhead.dev)
 
 ## JS
 
