@@ -1,4 +1,4 @@
-# grandeLista
+# A Grande Lista
 Lista de links úteis para desenvolvimento de Software em geral. Atualizada e revisada regularmente.
 
 ## Índice
@@ -14,6 +14,7 @@ Lista de links úteis para desenvolvimento de Software em geral. Atualizada e re
 - [CSS gradient](https://cssgradient.io/)
 - [CSS layout generator](https://layout.bradwoods.io/)
 - [NES.CSS - NES-style CSS Framework](https://nostalgic-css.github.io/NES.css/)
+- [CSS Tricks](https://css-tricks.com/)
 
 ## HTML
 
