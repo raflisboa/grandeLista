@@ -1,19 +1,15 @@
 # grandeLista
 Lista de links úteis para desenvolvimento de Software em geral. Atualizada e revisada regularmente.
 
-# Links Úteis
-
-Este repositório tem como objetivo reunir uma lista de links úteis relacionados a [TEMA DO REPOSITÓRIO].
-
 ## Índice
 
-- [CATEGORIA 1](#categoria-1)
+- [CSS](#css)
 - [CATEGORIA 2](#categoria-2)
 - [CATEGORIA 3](#categoria-3)
 
-## CATEGORIA 1
+## CSS
 
-- [LINK 1](URL DO LINK 1)
+- [CSS Background Patterns]([URL DO LINK 1](https://www.magicpattern.design/tools/css-backgrounds))
 - [LINK 2](URL DO LINK 2)
 - [LINK 3](URL DO LINK 3)
 
