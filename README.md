@@ -33,6 +33,7 @@ Lista de links úteis para desenvolvimento de Software em geral. Atualizada e re
 - [Can I Use](https://caniuse.com/)
 - [Responsively](https://responsively.app/)
 - [Readme.so](https://readme.so/)
+- [frontend tools](https://murtazajoo.me/tools/)
 
 
 ## Contribuir
