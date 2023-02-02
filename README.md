@@ -13,6 +13,7 @@ Lista de links úteis para desenvolvimento de Software em geral. Atualizada e re
 - [CSS Background Patterns](https://www.magicpattern.design/tools/css-backgrounds)
 - [CSS gradient](https://cssgradient.io/)
 - [CSS layout generator](https://layout.bradwoods.io/)
+- [NES.CSS - NES-style CSS Framework](https://nostalgic-css.github.io/NES.css/)
 
 ## HTML
 
