@@ -4,8 +4,9 @@ Lista de links úteis para desenvolvimento de Software em geral. Atualizada e re
 ## Índice
 
 - [CSS](#css)
-- [CATEGORIA 2](#categoria-2)
-- [CATEGORIA 3](#categoria-3)
+- [HTML](#html)
+- [JS](#js)
+- [OUTROS](#outros)
 
 ## CSS
 
@@ -13,17 +14,19 @@ Lista de links úteis para desenvolvimento de Software em geral. Atualizada e re
 - [CSS gradient](https://cssgradient.io/)
 - [CSS layout generator](https://layout.bradwoods.io/)
 
-## CATEGORIA 2
+## HTML
 
-- [LINK 1](URL DO LINK 1)
-- [LINK 2](URL DO LINK 2)
-- [LINK 3](URL DO LINK 3)
+- [Em breve](URL DO LINK 1)
 
-## CATEGORIA 3
+## JS
 
-- [LINK 1](URL DO LINK 1)
-- [LINK 2](URL DO LINK 2)
-- [LINK 3](URL DO LINK 3)
+- [Em breve](URL DO LINK 1)
+
+
+## OUTROS
+
+- [Em breve](URL DO LINK 1)
+
 
 ## Contribuir
 
