@@ -25,7 +25,9 @@ Lista de links úteis para desenvolvimento de Software em geral. Atualizada e re
 
 ## OUTROS
 
-- [Em breve](URL DO LINK 1)
+- [Can I Use](https://caniuse.com/)
+- [Responsively](https://responsively.app/)
+- [Readme.so](https://readme.so/)
 
 
 ## Contribuir
