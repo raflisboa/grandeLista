@@ -14,7 +14,12 @@ Lista de links úteis para desenvolvimento de Software em geral. Atualizada e re
 - [CSS gradient](https://cssgradient.io/)
 - [CSS layout generator](https://layout.bradwoods.io/)
 - [NES.CSS - NES-style CSS Framework](https://nostalgic-css.github.io/NES.css/)
-- [CSS Tricks](https://css-tricks.com/)
+- [Gradient Backgrounds](https://cssgradient.io/gradient-backgrounds/)
+- [Layout It](https://grid.layoutit.com/)
+- [Ultimate CSS Gradient Generator](https://www.colorzilla.com/gradient-editor/)
+- [CSS3/SASS object generator](https://csstool.net/)
+- [Animate.css](https://animate.style/)
+- [10 CSS Hacks Every Web Developer Should Know](https://www.freecodecamp.org/news/10-css-hacks-every-web-developer-should-know/amp/)
 
 ## HTML
 
@@ -22,7 +27,7 @@ Lista de links úteis para desenvolvimento de Software em geral. Atualizada e re
 
 ## JS
 
-- [Em breve](URL DO LINK 1)
+- [Em breve](google.com)
 
 
 ## UX/UI
