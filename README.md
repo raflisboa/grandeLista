@@ -9,7 +9,7 @@ Lista de links úteis para desenvolvimento de Software em geral. Atualizada e re
 
 ## CSS
 
-- [CSS Background Patterns]([URL DO LINK 1](https://www.magicpattern.design/tools/css-backgrounds))
+- [CSS Background Patterns]((https://www.magicpattern.design/tools/css-backgrounds))
 - [LINK 2](URL DO LINK 2)
 - [LINK 3](URL DO LINK 3)
 
